@@ -1,0 +1,17 @@
+I.Write a Program to swap two numbers without using third variable
+
+Input:			Output :
+A= 10			A=20 
+B= 20			B=10
+
+II.Write a Program to Print  first 5 Prime Numbers.
+    Input:			Output:
+    5               2  3  5  7  11
+
+III.Write a Program to print  the following  pattern  ..
+
+   *
+* * * * 
+ *   *
+* * * * 
+   *

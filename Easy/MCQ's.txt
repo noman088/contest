@@ -1,0 +1,84 @@
+i.	Which Data type is used to store whole numbers in Programming?
+a.	char (  )    b.  float  (   )   c. int (    )         d. string (   )
+
+Ans. c(int)
+
+ii.	Which operator is used to compare two values for equality in Programming?
+a.	=   (   )      b. = =    (    )    c. !=   (    )    d. none of these (    ) 
+
+Ans= b (==)
+
+iii.	 In object-oriented programming, what is an "object"?
+a.	A block of code             (   )  
+b.	A reserved word            (   ) 
+c.	An instance of a class   (    ) 
+d.	A data type                    (   )
+
+Ans. c (instance of a class)
+
+iv.	What is the primary purpose of using function in programming?
+a.	To store data                  (   )                    c. To create loops                    (    )   
+b.	To declare variables       (   )                   d. To organize and reuse code (    )
+
+Ans. - To organize and reuse code
+
+v.	In Programming  what is a conditional statement used for?
+a.	To declare function (   ) 
+b.	To execute a block of code only if a certain condition is met (  ) 
+c.	To define variables (   ) 
+d.	To create arrays  (   )
+
+Ans. - (b) to execute a block of code only if a certain condition is met
+
+vi.	Which of the following is an example of a reserved word in programming?
+a.	Variable   (   )     c. Function  (   ) 
+b.	if             (   )     d. loop         (   ) 
+
+Ans. -(b) if 
+
+vii.	What is the purpose of an  “  array  ’’ in programming?
+a.	To store a single value                                          (   )               
+b.	To perform mathematical calculation                   (   ) 
+c.	To  store multiple values of different data types  (   ) 
+d.	To store multiple values of same data types         (   ) 
+
+Ans. - (c) To store multiple values of same data types
+
+viii.	Break is used in ?
+a.	Everywhere                 (   )         c. In only  function (   )  
+b.	Only loop and switch  (   )         d. Only loop            (   ) 
+
+Ans. -(b) Only loop and switch
+
+
+ix.	Find the output of following code:
+int main(){
+int x=058;
+printf("%d",x);
+return 0;
+}
+a.	0  (  )       b. 058  (   )   c . error   (  )   d. None of these(  )
+
+Ans. - error (when we assign any integer value which start with 0 the compiler of c suppose it as a octal number(0-7) .we have 8 which is not in octal number that's why it is an error)
+
+
+int main()
+   {
+   int x;
+   for(x= -1;x<=10;x++)
+   {
+If(x<5)
+   continue;
+else
+   break;
+printf(“ASCT”);
+}
+ return 0;
+                     }
+x.	How many times ASCT  will  print ?
+a.	0     (  )             b. 11     (   )	         c. generate Error (   )                d.  10   (   ) 
+
+Ans. - 0 
+reason :- untill x=4 the if condition is execute and continue increase the value of x but when x = 5 then if condition is false and else condition will execute and  cursor will break loop and terminate the program that's why printf function will not execute once.
+
+
