@@ -1,3 +1,7 @@
+// II.Write a Program to Print  first 5 Prime Numbers.
+//     Input:			Output:
+//     5               2  3  5  7  11
+
 #include <stdio.h>
 int main()
 {

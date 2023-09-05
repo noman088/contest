@@ -2,8 +2,10 @@
 // I.Write a Program to swap two numbers without using third variable
 
 // Input:			Output :
-// A= 10			A=20 
+// A= 10			A=20
 // B= 20			B=10
+
+// You can  also do this problem with ^(xor) Operator
 
 #include <stdio.h>
 int main()
@@ -20,4 +22,3 @@ int main()
     printf("After Swap the Numbers are : a =  %d  and  b = %d", a, b);
     return 0;
 }
-
