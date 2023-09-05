@@ -1,0 +1,10 @@
+I.	Write a program to print  ASCT  5 times on the screen . 
+
+II.	Write a program to print HELLO in first line and STUDENTS in  second line.
+
+III.	Write a program to print first  10  Natural Numbers.
+
+IV.	Write a program to print unit digit of 153 .
+
+V.	Write a program to check whether a number is Odd or Even . take input from user..
+
