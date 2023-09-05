@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-
     int n, a = 0;
     printf("How Many Prime Numbers Do you Want to Print ? \n");
     scanf("%d", &n);
