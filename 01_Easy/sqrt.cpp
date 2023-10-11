@@ -1,3 +1,5 @@
+// this  question is from  leetcode 
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
