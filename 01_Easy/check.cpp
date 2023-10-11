@@ -3,10 +3,7 @@ using namespace std;
 int main()
 {
 
-    int a, b;
-    cout << "HEllo";
-    cin >> a;
-    cout << "Students";
-    cin >> b;
+    cout << "this is only for practice" << endl;
+
     return 0;
 }
